@@ -12,9 +12,7 @@
 ## 💎 Proje Özeti
 Sıradan betiklerin aksine **MITM-Core**, düşük seviyeli sistem doğrulamasını sağlamak için çalışma anında derlenen bir **C Çekirdeği (C-Core)** kullanır. Python tabanlı mantıksal katmanı ile sızma testi araçlarının yapılandırmasını ve depo entegrasyonunu hatasız yönetir.
 
-> **Developer Note:** Bu proje, kurumsal standartlarda beyaz şapkalı güvenlik uzmanları için optimize edilmiştir.
 
----
 
 ## 🏗️ Teknik Mimari
 
